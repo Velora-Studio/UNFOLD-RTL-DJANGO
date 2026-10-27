@@ -18,6 +18,20 @@
 **پنل راست چین چنگو**
 
 </div>
+<div align="center">
+
+<img
+  src="images/admin-panel-light.png"
+  alt="Django Unfold Farsi Admin Panel"
+  width="800"
+/>
+<img
+  src="images/admin-panel-dark.png"
+  alt="Django Unfold Farsi Admin Panel"
+  width="800"
+/>
+
+</div>
 
 ---
 
